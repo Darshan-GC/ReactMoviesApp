@@ -1,0 +1,28 @@
+input {
+  width: 100%;
+  height: 50px;
+  border-radius: 10px;
+  outline: none;
+  font-size: 20px;
+  text-align: center;
+  color: #7a7876;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  border: 5px solid #0f1369;
+}
+
+#container {
+  position: relatives;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+
+i {
+  padding: 10px;
+  margin-left: 10px;
+  font-size: 30px;
+  color: #0f1369;
+  position: absolute;
+}
